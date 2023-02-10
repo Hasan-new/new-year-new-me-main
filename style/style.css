@@ -35,6 +35,26 @@
     border: none;
     border-radius: 5px;
 }
+
+.container{
+    margin-top: 50px;
+}
 .about-me{
     display: flex;
+    /* text-align: center; */
+}
+.person-image{
+    position: absolute;
+    width: 560px;
+    height: 723px;
+    left: 200px;
+    top: 930px;
+}
+.failure-story{
+   
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 860px;
+    top: 1170px;
 }
