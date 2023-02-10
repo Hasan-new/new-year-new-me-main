@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    font-family: 'Fira Sans', sans-serif;
+
+
+}
+
+
+/* header {
+    display: absolute;
+} */
+
+
+.banner-image {
+    width: 100%;
+    align-items: center;
+}
+
+
+.text-block {
+    position: absolute;
+    text-align: right;
+    bottom: 200px;
+    right: 20px;
+    color: tomato;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+.contact-us-button {
+    color: white;
+    background-color: tomato;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+}
+.about-me{
+    display: flex;
+}
